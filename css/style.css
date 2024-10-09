@@ -68,3 +68,9 @@ h1, h2 {
 #my-music h1, #my-music h2 {
   color: green;
 }
+
+/* Main Content */
+main {
+  max-width: 90%;
+  margin: 2em auto;
+}
