@@ -100,3 +100,16 @@ section {
 #my-music section {
   border: 2px dashed green;
 }
+
+/* Image Border Styles(Same as the Section Border Styles) */
+#home-page img {
+  border: 2px solid red;
+}
+
+#favorite-music img {
+  border: 2px dotted blue; 
+}
+
+#my-music img {
+  border: 2px dashed green;
+}
