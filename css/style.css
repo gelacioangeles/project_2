@@ -113,3 +113,10 @@ section {
 #my-music img {
   border: 2px dashed green;
 }
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.8);
+}
