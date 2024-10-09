@@ -74,3 +74,8 @@ main {
   max-width: 90%;
   margin: 2em auto;
 }
+
+/* Fixed Width for Home Page */
+#home-page main {
+  width: 800px;
+}
