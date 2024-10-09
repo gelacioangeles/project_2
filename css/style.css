@@ -55,3 +55,16 @@ header {
 h1, h2 {
   font-family: 'Metal Mania', cursive;
 }
+
+/* Different Header Colors for Each Page that match the Hover Color of the Navigation */
+#home-page h1, #home-page h2 {
+  color: red;
+}
+
+#favorite-music h1, #favorite-music h2 {
+  color: blue;
+}
+
+#my-music h1, #my-music h2 {
+  color: green;
+}
