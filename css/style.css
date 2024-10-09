@@ -87,3 +87,16 @@ section {
   border-radius: 5px;
   background-color: rgba(0, 0, 0, 0.8);
 }
+
+/* Section Border Styles */
+#home-page section {
+  border: 2px solid red; 
+}
+
+#favorite-music section {
+  border: 2px dotted blue;
+}
+
+#my-music section {
+  border: 2px dashed green;
+}
