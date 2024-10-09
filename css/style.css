@@ -33,3 +33,16 @@ nav ul li a {
   color: white;
   text-decoration: none;
 }
+
+/* Different Link Hover Effects for Each Page */
+#home-page nav ul li a:hover {
+  color: red; 
+}
+
+#favorite-music nav ul li a:hover {
+  color: blue; 
+}
+
+#my-music nav ul li a:hover {
+  color: green; 
+}
