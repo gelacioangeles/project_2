@@ -46,3 +46,12 @@ nav ul li a {
 #my-music nav ul li a:hover {
   color: green; 
 }
+
+/* Header Styles */
+header {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'Metal Mania', cursive;
+}
