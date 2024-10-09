@@ -1,2 +1,9 @@
 /* Import Metal Mania font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+/* Body and Background */
+html {
+  background-image: url('../images/red.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
