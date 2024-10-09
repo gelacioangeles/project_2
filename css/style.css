@@ -15,6 +15,7 @@ body {
   padding: 0 1em; 
 }
 
+/* Navigation Styling */
 nav ul {
   list-style: none;
   display: flex;
@@ -25,4 +26,9 @@ nav ul {
 
 nav ul li {
   margin: 0 1em; 
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
 }
