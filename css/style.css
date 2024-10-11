@@ -9,10 +9,10 @@ html {
 }
 
 body {
-  font-family: 'Arial', sans-serif; 
-  line-height: 1.5; 
-  color: white; 
-  padding: 0 1em; 
+  font-family: 'Arial', sans-serif;
+  line-height: 1.5;
+  color: white;
+  padding: 0 1em;
 }
 
 /* Navigation Styling */
@@ -21,11 +21,12 @@ nav ul {
   display: flex;
   justify-content: center;
   padding: 0;
+  margin: 0;
   background-color: rgba(0, 0, 0, 0.8);
 }
 
 nav ul li {
-  margin: 0 1em; 
+  margin: 0 1em;
 }
 
 /* Link Colors */
@@ -36,15 +37,15 @@ nav ul li a {
 
 /* Different Link Hover Effects for Each Page */
 #home-page nav ul li a:hover {
-  color: red; 
+  color: red;
 }
 
 #favorite-music nav ul li a:hover {
-  color: blue; 
+  color: blue;
 }
 
 #my-music nav ul li a:hover {
-  color: green; 
+  color: green;
 }
 
 /* Header Styles */
@@ -90,7 +91,7 @@ section {
 
 /* Section Border Styles */
 #home-page section {
-  border: 2px solid red; 
+  border: 2px solid red;
 }
 
 #favorite-music section {
@@ -101,13 +102,13 @@ section {
   border: 2px dashed green;
 }
 
-/* Image Border Styles(Same as the Section Border Styles) */
+/* Image Border Styles (Same as the Section Border Styles) */
 #home-page img {
   border: 2px solid red;
 }
 
 #favorite-music img {
-  border: 2px dotted blue; 
+  border: 2px dotted blue;
 }
 
 #my-music img {
